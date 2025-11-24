@@ -20,6 +20,10 @@ body {
   background-attachment: fixed;
 }
 
+.flag {
+height:100vh;
+}
+
 /* Default Page Grid Layout */
 .page {
   display: grid;
