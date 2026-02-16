@@ -50,6 +50,11 @@ body {
   max-width: 50%;
 }
 
+/*link color*/
+.a {
+  color: black;
+}
+
 /* Styling for small screens */
 @media (max-width: 576px) {
   .page {
